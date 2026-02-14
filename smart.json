@@ -58,5 +58,11 @@
         "key": "smart12340047241",
         "expirydate": "16-02-2026",
         "Allowoffline": false   
-     }  
+    },
+    {
+        "device_id": "5fc10190932dbfff",
+        "key": "smart12340460047241",
+        "expirydate": "16-02-2026",
+        "Allowoffline": false   
+     }    
  ]
