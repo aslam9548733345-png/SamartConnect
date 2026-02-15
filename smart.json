@@ -94,5 +94,23 @@
         "key": "smart1234046000004",
         "expirydate": "16-02-2026",
         "Allowoffline": false   
+    },
+    {
+        "device_id": "8dd9958adc5a1260",
+        "key": "smart123400499999",
+        "expirydate": "16-02-2026",
+        "Allowoffline": false   
+    },
+    {
+        "device_id": "fcd50a7ec27b8256",
+        "key": "smart12340468888888",
+        "expirydate": "16-02-2026",
+        "Allowoffline": false   
+    },
+    {
+        "device_id": "7577a36c38ac51ef",
+        "key": "smart1234077777777",
+        "expirydate": "16-02-2026",
+        "Allowoffline": false   
     }      
  ]
