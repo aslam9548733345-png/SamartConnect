@@ -136,5 +136,11 @@
         "key": "smart1100000000077",
         "expirydate": "16-03-2026",
         "Allowoffline": false   
+    },
+    {
+        "device_id": "1cc8619e484182bd",
+        "key": "smart009644432377",
+        "expirydate": "16-03-2026",
+        "Allowoffline": false   
     }            
  ]
