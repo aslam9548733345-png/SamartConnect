@@ -308,7 +308,13 @@
     {
         "device_id": "b6c6e516d82438b6",
         "key": "smart8547659",
-        "expirydate": "01-04-2026",
+        "expirydate": "02-04-2026",
+        "Allowoffline": false   
+    },    
+    {
+        "device_id": "5d683361e9855b9b",
+        "key": "smart85s659",
+        "expirydate": "02-04-2026",
         "Allowoffline": false   
     }         
  ]
