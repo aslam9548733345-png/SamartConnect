@@ -316,5 +316,11 @@
         "key": "smart85s659",
         "expirydate": "02-04-2026",
         "Allowoffline": false   
+    },    
+    {
+        "device_id": "ceaafe1f7cb96729",
+        "key": "smart85s6a59",
+        "expirydate": "05-04-2026",
+        "Allowoffline": false   
     }         
  ]
