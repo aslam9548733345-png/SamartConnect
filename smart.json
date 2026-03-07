@@ -334,5 +334,11 @@
         "key": "smart8a5s6aa59",
         "expirydate": "06-04-2026",
         "Allowoffline": false   
+    },    
+    {
+        "device_id": "47a9d841d2eddc56",
+        "key": "smart8a5s6a9",
+        "expirydate": "06-04-2026",
+        "Allowoffline": false   
     }         
  ]
